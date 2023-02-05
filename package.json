@@ -1,0 +1,24 @@
+{
+  "name": "api-breakingnews",
+  "version": "1.0.0",
+  "description": "API for SPA Breaking News",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriqueFornazeiro/api-breakingnews.git"
+  },
+  "author": "Henrique Fornazeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henriqueFornazeiro/api-breakingnews/issues"
+  },
+  "homepage": "https://github.com/henriqueFornazeiro/api-breakingnews#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
